@@ -1,33 +1,34 @@
 # AI Chat Assistant
 
-A modern, responsive chat interface built with React and Material-UI that provides an interactive AI chat experience with plugin support.
+🔗 **Live Demo:** [https://ai-chat-two-gamma.vercel.app](https://ai-chat-two-gamma.vercel.app)
 
-## Features
+A modern, responsive chat interface built with **React** and **Material-UI**, offering an interactive AI-powered chat experience with plugin support.
 
-- 🎨 Modern and clean user interface
-- 💬 Real-time chat interactions
-- 🔌 Plugin system for extended functionality
-- 📱 Responsive design for all devices
-- 🎯 Material-UI components with custom theming
-- 💾 Persistent chat history using localStorage
+## 🚀 Features
 
-## Styling
+- 🎨 **Modern UI** – Clean and intuitive design  
+- 💬 **Real-time Chat** – Smooth interactions with AI  
+- 🔌 **Plugin Support** – Extend functionality easily  
+- 📱 **Responsive Design** – Optimized for all screen sizes  
+- 🎯 **Material-UI** – Themed components with a custom look  
+- 💾 **Persistent Chat History** – Stored locally via `localStorage`
 
-The application uses a carefully designed color scheme and styling:
-
+## 🎨 Styling Overview
 
 ### Typography
-- Clean, modern font stack using Inter and system fonts
-- Bold headings with custom letter spacing
-- Optimized readability with proper line heights
+
+- Uses Inter and system fonts for a clean, modern look  
+- Bold headings with custom letter spacing  
+- Optimized readability through ideal line heights
 
 ### Components
-- Elevated Paper components with subtle borders
-- Responsive container layout
-- Custom scrollbar styling
-- Smooth animations for message transitions
 
-## Getting Started
+- Elevated `Paper` elements with subtle borders  
+- Responsive layouts using container components  
+- Custom-styled scrollbars  
+- Smooth transitions for chat messages
+
+## 🛠 Getting Started
 
 ### Prerequisites
 
@@ -36,30 +37,33 @@ The application uses a carefully designed color scheme and styling:
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/whyshashi/AI_CHAT.git
-```
+1. **Clone the repository:**
 
-2. Install dependencies:
-```bash
-npm install
+   ```bash
+   git clone https://github.com/whyshashi/AI_CHAT.git
+   cd AI_CHAT
+   ```
 
-3. Start the development server:
-```bash
-npm run dev
+2. **Install dependencies:**
 
+   ```bash
+   npm install
+   ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+3. **Start the development server:**
 
-## Available Commands
+   ```bash
+   npm run dev
+   ```
 
-- `npm run dev` - Start development server
+4. Open your browser and navigate to: [http://localhost:5173](http://localhost:5173)
 
+## 📦 Available Commands
 
-## Technologies Used
+- `npm run dev` – Start the development server
 
-- React
-- Material-UI (MUI)
-- Vite
+## 🧰 Technologies Used
 
+- [React](https://reactjs.org/)
+- [Material-UI (MUI)](https://mui.com/)
+- [Vite](https://vitejs.dev/)
