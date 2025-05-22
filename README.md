@@ -57,19 +57,6 @@ npm run dev
 - `npm run dev` - Start development server
 
 
-## Project Structure
-
-```
-src/
-├── components/         # React components
-│   ├── ChatInterface.jsx
-│   └── MessageBubble.jsx
-├── store/             # State management
-│   └── chatStore.js
-├── App.jsx           # Main application component
-└── index.css         # Global styles
-```
-
 ## Technologies Used
 
 - React
