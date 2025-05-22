@@ -15,11 +15,6 @@ A modern, responsive chat interface built with React and Material-UI that provid
 
 The application uses a carefully designed color scheme and styling:
 
-### Colors
-- Primary: Teal (#00897B)
-- Secondary: Red (#dc004e)
-- Background: Light Grayish Blue (#f0f2f5)
-- Paper: White (#ffffff)
 
 ### Typography
 - Clean, modern font stack using Inter and system fonts
@@ -43,7 +38,7 @@ The application uses a carefully designed color scheme and styling:
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/whyshashi/AI_CHAT.git
 ```
 
 2. Install dependencies:
