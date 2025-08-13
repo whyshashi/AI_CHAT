@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: ai-web
-  description: this is chat bot app
+  description: this is ai chat bot app
   labels:
     example.com/custom: custom_label_value
   annotations:
