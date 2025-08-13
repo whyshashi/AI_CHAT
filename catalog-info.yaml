@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ai-web
+  description: this is chat bot app
+  labels:
+    example.com/custom: custom_label_value
+  annotations:
+    example.com/service-discovery: artistweb
+    circleci.com/project-slug: github/example-org/artist-website
+  tags:
+    - python
+    - ai
+  links:
+    - url: https://ai-chat-two-gamma.vercel.app/
+      title: chat app
+      icon: dashboard
+      type: chatapp
+spec:
+  type: website
+  lifecycle: production
+  owner: artist-relations-team
+  system: public-websites
